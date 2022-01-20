@@ -3,8 +3,13 @@
 Storybook is here:
 <!-- * Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/> -->
 <!-- * QA:  <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/> -->
+<<<<<<< HEAD
 * Production: <https://github.com/ucsb-cs156-w22/jpa03-rawenger-docs/>
 * QA:  <https://github.com/ucsb-cs156-w22/jpa03-rawenger-docs-qa/>
+=======
+* Production: <https://ucsb-cs156-w22.github.io/jpa03-rawenger-docs/>
+* QA:  <https://ucsb-cs156-w22.github.io/jpa03-rawenger-docs-qa/>
+>>>>>>> parent of 8b6e3fb (Update README.md)
 
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
