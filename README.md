@@ -1,5 +1,8 @@
 # jpa03-rawenger
 
+Coverage: [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-rawenger/branch/main/graph/badge.svg?token=URoJU9Cbbd)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-rawenger)
+--------------
+
 Storybook is here:
 <!-- * Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/> -->
 <!-- * QA:  <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/> -->
